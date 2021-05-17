@@ -3,7 +3,6 @@
 # **SHOOT OPERATION**⚔
 <li>✅Totalmente Gratuito✨</li>
 <li>📷Tome tu teléfono y elimine a todos los enemigos👾</li>
-<li>💸Gana PINFCOINS</li>
 <br>
 
 Proyecto realizado por :<br>
@@ -11,8 +10,8 @@ Proyecto realizado por :<br>
 <li>Pedro Antonio Navas Luque</li>
 
 <br>
-*📥Instalación🖱*
-<li>Descargar e imprimir los targets que se ponen a disposición para el usuario. El tama~no ideal será el estándar A4.</li>				
+📥*Instalación*🖱
+<li>Descargar e imprimir los targets que se ponen a disposición para el usuario. El tamaño ideal será el estándar A4.</li>				
 <li>Descargar e instalar la apk ofrecida de Shoot Operation.</li>
 <li>Colocar o esconder los targets por toda la zona de juego. Estos pueden colocarse o esconderse por el mismo usuario o por otro.</li>
 <li>Iniciar la aplicación y pulsar en iniciar juego.</li>
