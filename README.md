@@ -28,5 +28,5 @@ rápido con ella.</li>
 <br>
 <img src="Images/ingame2.png" width="800" />
 <br>
-<img src="Images/ingame3.png" width="800" />>
+<img src="Images/ingame3.png" width="800" />
 <br>
